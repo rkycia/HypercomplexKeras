@@ -1,0 +1,24 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+
+[project]
+name = "HypercomplexKeras"
+version = "1.0.0"
+authors = [
+  { name="Radoslaw Kycia", email="kycia.radoslaw@gmail.com" },
+  { name="Agnieszka Niemczynowicz", email="aga.niemczynowicz@gmail.com" },
+]
+description = "Extends Keras library for layers using hypercomplex algebras."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/rkycia/HypercomplexKeras"
+Issues = "https://github.com/rkycia/HypercomplexKeras"
