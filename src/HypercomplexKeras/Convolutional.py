@@ -6,7 +6,9 @@ import tensorflow as tf
 from tensorflow.keras import layers, activations, initializers
 from tensorflow.python.framework import tensor_shape
 
-import Algebra
+from HypercomplexKeras import Algebra
+#import Algebra
+
 
 
 class HyperConv2D(layers.Layer):

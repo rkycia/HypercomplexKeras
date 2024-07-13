@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "HypercomplexKeras"
-version = "1.0.0"
+version = "1.0.2"
 authors = [
   { name="Radoslaw Kycia", email="kycia.radoslaw@gmail.com" },
   { name="Agnieszka Niemczynowicz", email="aga.niemczynowicz@gmail.com" },

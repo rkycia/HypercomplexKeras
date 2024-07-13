@@ -13,8 +13,8 @@ import torch.nn as nn
 
 
 
-import Algebra
-
+from HypercomplexKeras import Algebra
+#import Algebra
 
 
 

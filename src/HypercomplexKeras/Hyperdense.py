@@ -6,7 +6,8 @@ import tensorflow as tf
 from tensorflow.keras import layers, activations, initializers
 
 
-import Algebra
+from HypercomplexKeras import Algebra
+#import Algebra
 
 
 class HyperDense(layers.Layer):
